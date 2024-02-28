@@ -20,7 +20,7 @@
 ### &nbsp 2. Install nodejs
 &nbsp;&nbsp; Install nodejs which is a prerequisite \
 &nbsp;&nbsp; Use the below command to install nodejs \
-&nbsp;&nbsp; 'sudo apt install nodejs -y'
+&nbsp;&nbsp; > sudo apt install nodejs -y
 
 
   
