@@ -12,7 +12,7 @@
 
 ## Tasks
 &nbsp;&nbsp;&nbsp; Refer this file for the complete step-by-step explanation of the tasks involved to complete the project \
-&nbsp;&nbsp;&nbsp; < CI_CD Pipeline Project ASI Insurance.pdf > 
+&nbsp;&nbsp;&nbsp; <https://github.com/akshay-imanuel/Dockerised-CICD-pipeline/blob/master/CI_CD%20Pipeline%20Project%20ASI%20Insurance.pdf> 
 
 ## Outcome
 &nbsp;&nbsp;&nbsp; The successful completion of the project will enable ASI Insurance
