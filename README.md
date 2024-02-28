@@ -1,8 +1,15 @@
+## Objective
+  To create a microservice application architecture for an Insurance company through DevOps pipeline and deployment on Docker.
 
+## Tools used
+  - Jenkins
+  - Github
+  - Docker & DockerHub
+  - AWS (EC2 instance)
 
-This project will help you to understand various concept related to Insurace domain. Please read the Insurace-domain.pdf to get more functional knowledge on 
-Insurace domain. 
+## Description
+  ASI Insurance is facing challenges in improving the SLA to its customers due to its organizational growth and existing monolithic application architecture. It requires transformation of the existing architecture to a microservice application architecture, while also implementing DevOps pipeline and automations.
 
-This project front is based on simple HTML, CSS and Angular Js ad Backend is Java Spring Boot.
+## Tasks
 
-In order to run the application use port 8081..
+  ### Creating Github repository and Required Files
