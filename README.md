@@ -20,7 +20,3 @@
 -  Enhance system scalability.
 -  Deliver better products and services to its customers.
 
-
-
-
-  
